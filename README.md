@@ -15,7 +15,7 @@ using SQL.
 - SQL (Data analysis & querying)<br>
 - Power BI (optional – visualization stage)<br>
 
-## Key Business Questions
+## Key Research Questions
 - What is the average recovery duration after COVID?<br>
 - Does hospitalization increase recovery time?<br>
 - Which patients experienced the longest recovery?<br>

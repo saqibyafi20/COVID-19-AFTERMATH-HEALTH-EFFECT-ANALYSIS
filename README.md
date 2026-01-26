@@ -13,7 +13,6 @@ using SQL.
 
 ## Tools Used
 - SQL (Data analysis & querying)<br>
-- Power BI (optional – visualization stage)<br>
 
 ## Key Research Questions
 - What is the average recovery duration after COVID?<br>
